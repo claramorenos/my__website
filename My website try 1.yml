@@ -14,7 +14,7 @@ params:
   blog: {}
   contact:
     address:
-      - city: City, ST 00000
+      - city: London
         country: Country
         street: Street
         title: Address
